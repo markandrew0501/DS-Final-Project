@@ -16,5 +16,6 @@
 
 int main(){
   printf("Hello, World");
+  priint("TEST!");
   return 0;
 }
