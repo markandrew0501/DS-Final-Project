@@ -46,7 +46,7 @@ Once compiled, you can run the utility from your terminal or command prompt usin
 - `--from <input_format>`: Specifies the input notation format
   - `<input_format>` can be `infix`, `prefix`, or `postfix`
 - `--to <output_format>`: Specifies the output notation format
-  - `<format>` can be `infix`, `prefix`, or `postfix`
+  - `<output_format>` can be `infix`, `prefix`, or `postfix`
 - `"<expression_string>"`: The mathematical expression you want to convert
   - **Important**: Enclose expressions containing spaces within double quotes `""`
   - Operands and operators must be **space-separated**
