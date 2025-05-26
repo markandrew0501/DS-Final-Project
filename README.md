@@ -34,12 +34,12 @@ To compile and run this program, you will need a C compiler (e.g. GCC)
    ```bash
    gcc -o notation-converter notation-converter.c
     ```
-Upon succesful compilation, an executable file named `notation-converter` will be created in yout project directory.
+Upon succesful compilation, an executable file named `notation-converter` will be created in your project directory.
 
 ### Running the Utility
 Once compiled, you can run the utility from your terminal or command prompt using the following general syntax:
 ```bash
-./notation-converter --from <innput_format> --to <ouput_format> "<expression_string>"
+./notation-converter --from <input_format> --to <output_format> "<expression_string>"
 ```
 
 ## Arguments
