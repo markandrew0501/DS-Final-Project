@@ -39,7 +39,7 @@ Upon succesful compilation, an executable file named `notation-converter` will b
 ### Running the Utility
 Once compiled, you can run the utility from your terminal or command prompt using the following general syntax:
 ```bash
-./notation-converter --from <innput_format> --to <ouput_format>
+./notation-converter --from <innput_format> --to <ouput_format> "<expression_string>"
 ```
 
 ## Arguments
