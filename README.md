@@ -107,3 +107,4 @@ You can access built-in help and a detailed usage guide directly from the CLI:
 - **No multi-digit numbers:** Operands are limited to single digits (0-9)
 - **No variable support:** Only constant numerical operands are supported, variables are not
 - **No unary operators:** Only binary operators are supported
+- I can do it!
